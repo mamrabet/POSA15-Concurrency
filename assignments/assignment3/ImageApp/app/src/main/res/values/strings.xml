@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+
+    <string name="hello_world">Welcome to the Download and filter app. Type an Image URL,
+        or a default image will be used in the URL: http://www.dre.vanderbilt.edu/~schmidt/robot.png</string>
+    <string name="action_settings">Settings</string>
+</resources>
